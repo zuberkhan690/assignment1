@@ -1,3 +1,3 @@
-# assignment1
-ASSIGNMENT 1: Module 2: Basic Python Concepts
-file names are task1.py and task2.py
+ASSIGNMENT 2:
+Module 3: Control Structures in Python
+added task 1 and 2
